@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GeoffreyBl
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
-- 📫 How to reach me geoffrey@blairvacq.fr
+- 👀 I’m interested in Web development (FRONT/BACK/FULLSTACK)
+- 🌱 I’m currently learning React/Laravel
+- 📫 How to reach me geoffrey@blairvacq.com
