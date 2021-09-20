@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GeoffreyBl
 - 👀 I’m interested in Web development (FRONT/BACK/FULLSTACK)
-- 🌱 I’m currently learning React/Laravel
+- 🌱 Discovered so far : HTML / CSS / JS / PHP / MYSQL / ANGULAR / SYMFONY / JQUERY / BOOTSTRAP / C#
 - 📫 How to reach me geoffrey@blairvacq.com
